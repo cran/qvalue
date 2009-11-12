@@ -1,6 +1,6 @@
 Package: qvalue
 Title: Q-value estimation for false discovery rate control
-Version: 1.18.0
+Version: 1.20.0
 Author: Alan Dabney <adabney@u.washington.edu> and John D. Storey
         <jstorey@u.washington.edu>, with assistance from Gregory R.
         Warnes <gregory_r_warnes@groton.pfizer.com>
@@ -19,6 +19,6 @@ Maintainer: John D. Storey <jstorey@u.washington.edu>
 Depends: tcltk
 License: LGPL
 biocViews: MultipleComparisons
-Packaged: 2009-04-21 09:11:50 UTC; biocbuild
+Packaged: 2009-11-12 09:01:34 UTC; biocbuild
 Repository: CRAN
-Date/Publication: 2009-05-10 18:55:22
+Date/Publication: 2009-11-13 10:43:56
